@@ -1,2 +1,3 @@
 # C_108
-Practice tasks
+Practice tasks for C程式設計
+
